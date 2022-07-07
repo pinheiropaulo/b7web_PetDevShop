@@ -1,6 +1,5 @@
 import { Request, Response } from 'express';
 import { CreateMenuObject } from '../services/CreateMenuObject';
-
 import PetModel from '../models/PetModel';
 
 export default {
